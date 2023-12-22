@@ -1,0 +1,226 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello",
+                "hey",
+                "hey, there",
+                "greetings",
+                "whats up",
+                "how is it going",
+                "just going to say hi",
+                "heya",
+                "hello hi",
+                "hi there",
+                "howdy",
+                "long time no see",
+                "hello"
+            ],
+            "responses": [
+                "Hey there! Welcome to our college website.I would be more the happy to help you.",
+                "Hey there! welcome.How can i help you."
+            ]
+        },
+        {
+            "tag": "Basic info",
+            "patterns": [
+                "Tell me about the college",
+                "can you give me some information about the college",
+                "give me some information about the college",
+                "can you give me some info about the college",
+                "what is some basic information about the college loke where does it stands and all"
+            ],
+            "responses": [
+                "sure!Here is some basic information about VIT college.VIT stands for Vishwakarma Institute of Technology,a top class class engineering college.The nirf ranking of the college is 30th(overall rank),4th (west region) and 28th(among private institutes).VIT is one of ther topmost colleges where the curriculum is research and developments based.Yearly admissions of VIT are nearly 2000.The faculty here are friendly,highly qualifies and possess excellent teaching skills.There are various ectra curriculur activities are going on .Everyone works in hormony to create a friendly and growth oriented enviroment.We have established Alumni portal to strengthen our existing bonds,share your success and honours and your achievements.",
+                "Sure!VIT stands for Vishwakarma Institute of Technology,a top class class engineering college.The nirf ranking of the college is 30th(overall rank),4th (west region) and 28th(among private institutes).VIT is one of ther topmost colleges where the curriculum is research and developments based.Yearly admissions of VIT are nearly 2000.The faculty here are friendly,highly qualifies and possess excellent teaching skills.There are various ectra curriculur activities are going on .Everyone works in hormony to create a friendly and growth oriented enviroment. We have established Alumni portal to strengthen our existing bonds,share your success and honours and your achievements.",
+                "VIT stands for Vishwakarma Institute of Technology,a top class class engineering college.The nirf ranking of the college is 30th(overall rank),4th (west region) and 28th(among private institutes).VIT is one of ther topmost colleges where the curriculum is research and developments based.Yearly admissions of VIT are nearly 2000.The faculty here are friendly,highly qualifies and possess excellent teaching skills.There are various ectra curriculur activities are going on .Everyone works in hormony to create a friendly and growth oriented enviroment.We have established Alumni portal to strengthen our existing bonds,share your success and honours and your achievements."
+            ]
+        },
+        {
+            "tag": "campus life",
+            "patterns": [
+                "can you tell me about the campus life at VIT",
+                "tell me something about the campus life at VIT",
+                "How is the campus life at VIT",
+                "give me some info about the campus life at VIT",
+                "give me some information about the campus life ata VIT",
+                "What is going on in the campus of the college",
+                "say something about the campus life at VIT"
+            ],
+            "responses": [
+                "I am very much thrilled to tell you that VIT has the most amazing campus life.There are various adventorous and crazy events going on throughout the year .Vishwakarandak,Vishwotsav ,VishwaTech Spectra,Melange,Spring Fest are some of the major events carries out.There are various small scale events workshops and events also thta adds up to the spice.The Event Planning and Execution Committee(EPEC)hanfdles everythiing related to an event right from launch to successfull farewell.You can see more by visiting the official website of EPEC at https://epecvitpune.com/",
+                "VIT has this amazing campus life which includes various events like Vishwotsav,Vishwakarandak,VishwaTech Spectra and many more more along with some tiny events.The Event Planning and Execution Committee manages everything about any fest that takes place.You can know more about it at  https://epecvitpune.com/ "
+            ]
+        },
+        {
+            "tag": "Clubs",
+            "patterns": [
+                "What are the clubs in VIT",
+                "How many clubs are there in VIT and what are their names",
+                "what is the club culture at VIT",
+                "How is the club culture at VIT",
+                "how many clubs are there in VIT",
+                "can you tell me about the clubs in VIT",
+                "give me some information about the clubs in VIT",
+                "give me some info about the club culture at VIT",
+                "give me some information about the club culture at VIT"
+            ],
+            "responses": [
+                "Sure!There are total 48 clubs at VIT .Everyone has their working domain and field of interests.Some of the major clubs at VIT are as follows.You can check their more details and insigts on their  official instagram handles.:1.Veloce Racing India:https://www.instagram.com/veloce_racing_india/ 2.Trident Labs:https://www.instagram.com/trident_labs/  3.Endurance Racing:https://www.instagram.com/team_endurance_racing/  4.Griffin:https://www.instagram.com/teamgriffinindia/  5.V-EDC:https://www.instagram.com/v_edc/?hl=en . You can know more about the clubs at https://www.instagram.com/vit_clubs/?hl=en "
+            ]
+        },
+        {
+            "tag": "Accomodation",
+            "patterns": [
+                "What are the accomodation facilities provided by the college",
+                "can you tell me about the accomodation facilities provided by VIT.",
+                "what are accomodation services provided by the college"
+            ],
+            "responses": [
+                "Yes VIT provided eexcellent accomodation facilities which  includes hostel and food services.The hostel faci;ity provided by the college is located within 1 kilometer of the campus area.The food serves there is of excellent quality and is pocket friendly."
+            ]
+        },
+        {
+            "tag": "Instrumentation academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of Instrumentation and control branch",
+                "can you provide me the syllabus of instrumentation and control branch",
+                "provide me the syllabus and curriculum of instrumentation branch"
+            ],
+            "responses": [
+                "Sure! here is the link  'https://www.vit.edu/Instrumentation/index.php/courses/curriculum' .You can viit this link and check evrything about the curriculum of Instrumentation and control branch."
+            ]
+        },
+        {
+            "tag": "Chemical academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of chemical branch",
+                "can you provide me the syllabus of chemical branch.",
+                "provide me the syllabus and curriculum of chemical."
+            ],
+            "responses": [
+                "Sure! here is the link <a href = 'https://www.vit.edu/Chemical/index.php/courses/course-structure'</a> .You can viit this link and check evrything about the curriculum of Chemical Branch."
+            ]
+        },
+        {
+            "tag": "mechanical academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of mechanical branch ",
+                "can you provide me the syllabus of mechanical branch.",
+                "provide me the syllabus and curriculum of mechanical branch."
+            ],
+            "responses": [
+                "Sure! here is the link <a href = 'https://www.vit.edu/Mechanical/index.php/courses/syllabus'</a> .You can viit this link and check evrything about the curriculum of mechanical Branch."
+            ]
+        },
+        {
+            "tag": "ENTC academics",
+            "patterns":[
+                "Can you tell me about the curriculum and syllabus of electronics and telecommunication branch ",
+                "can you provide me the syllabus of Electronics and telecommunication branch.",
+                "provide me the syllabus and curriculum of Electronics and telecommunication branch."
+
+            ],
+             "responses": [
+                "Sure! here is the link <a href = 'https://www.vit.edu/E-TC/index.php/courses/curriculum '</a> .You can viit this link and check evrything about the curriculum of Electronics and telecommunication Branch."
+               
+            ]
+        },
+        {
+            "tag": "IT academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of Information Technology branch ",
+                "can you provide me the syllabus of Information Technology branch.",
+                "provide me the syllabus and curriculum of Information Technology branch."
+                
+            ],
+            "responses": [
+                "Sure! here is the link <a href = 'https://www.vit.edu/IT/index.php/courses/course-structure' </a> .You can viit this link and check evrything about the curriculum of Information Technology Branch."
+                
+            ]
+        },
+        {
+            "tag": "computer academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of computer science branch ",
+                "can you provide me the syllabus of computer science branch.",
+                "provide me the syllabus and curriculum of computer science branch."
+              
+            ],
+            "responses": [
+                "Sure! here is the link <a href = 'https://www.vit.edu/Computer/index.php/courses/course-structurcomputer'</a> science .You can viit this link and check evrything about the curriculum of computer science Branch."
+            ]
+        },
+        {
+            "tag": "first year academics",
+            "patterns": [
+                "Can you tell me about the curriculum and syllabus of First year. ",
+                "can you provide me the syllabus of First year.",
+                "provide me the syllabus and curriculum of First year."
+                
+            ],
+            "responses": [
+                "Sure! here is the link <a href  = 'https://www.vit.edu/DESH/index.php/courses/course-structure' </a>  .You can visit this link and check evrything about the curriculum of First year."
+                
+            ]
+        },
+        {
+            "tag": "placement",
+            "patterns": [
+                "can you tell me about the placement of VIT college.",
+                "give me some information about the placements in VIT college.",
+                "what are the placement statistics of the college",
+                "what are the placement stats of the college.",
+                "what is the highest package of each branch in VIT college.",
+                "how many students get placed every year  from the college.",
+                "who takes care of the placement of the college.",
+                "How many companies visit the college campus for placements every year",
+                "which companies visit the college campus for placements every year",
+                "placement statistics of the college"
+                
+            ],
+            "responses": [
+               "Every year average of aroung 120+ comanies visit the ampus for placements.The companies visiting the campus include Microsoft,Google and Amazon like big tech copanies.The highest package of the computer department was 1 cr per anum in the year 2025,where as the average and minimun package were aroung 24 lakhs and 12 lakhs respectively.You can check  real time placement statistics and branch wise placements by visiting the given link 'https://www.vit.edu/index.php/placements/placements-statistics'."
+                
+            ]
+        },
+        {
+            "tag": "address",
+            "patterns": [
+                "what is the address of the college",
+                "can you provide me the address of the college",
+                "where is the VIT college located",
+                "where is the college located in pune",
+                "what is the location of the college"
+                
+            ],
+            "responses": [
+              "Vishwakarman Institute of Technology,666,Upper Indiranagar,Bibwewadi,Pune,Maharashtra,India-411037"
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "can you give me the enquiry contact numbers",
+                "provide me the enquiry contact numbers"
+                
+            ],
+            "responses": [
+                "sure here it is 91 - 7058432258 / 8793428634"
+            ]
+        },
+        {
+            "tag": "timing",
+            "patterns": [
+                "what is the office timing"
+                
+            ],
+            "responses": [
+                "The office timing is as follows:Monday to Friday - 10am to 5 pm"
+            ]
+        }
+    ]
+}     
+
+        
